@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=vin\ capacity\ currentMiles\ active
+comment0.target=void\ addVehicle(java.lang.String,\ double,\ double,\ int)
+comment1.params=id\ vin\ capacity\ currentMiles\ active
+comment1.target=void\ editVehicle(int,\ java.lang.String,\ double,\ double,\ int)
+comment1.text=\n\ Edit\ Vehicles\n
+comment2.params=id
+comment2.target=void\ removeVehicle(int)
+comment2.text=\n\ Remove\ Vehicles\n
+numComments=3
